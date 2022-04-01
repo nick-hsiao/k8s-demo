@@ -1,0 +1,1 @@
+# kubernetes demo with MongoDB endpoint and web application
